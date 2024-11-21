@@ -496,5 +496,11 @@
     "emoji": ":italy:",
     "location": "Naples",
     "link": "https://www.eventbrite.it/e/863744451907/"
-  }    
+  },
+  {
+    "title": "ETH Nica",
+    "emoji": ":nicaragua:",
+    "location": "Nicaragua",
+    "link": "https://lu.ma/user/ethnica"
+  }   
 ]
